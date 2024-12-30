@@ -2,4 +2,4 @@ Users should prepare their own data: (1) station observations/anomalies, (2) rea
 
 Use comp_kriging_weights.ncl to get spatial weights for each month.
 
-Apply kriging weights to sation monthly anomalies.
+Apply kriging weights to station monthly anomalies.
