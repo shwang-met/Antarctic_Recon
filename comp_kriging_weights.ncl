@@ -1,5 +1,5 @@
 ;===============================================================================
-; This script calculates the kriging weights by using reanalsis data.
+; This script calculates the kriging weights by using reanalysis data.
 ; The script calculates the kriging weights (λ) by solving equation A · λ = B.
 ; Below, the variable L is used for λ. 
 ; For details about the maths, see Appendix A of Nicolas and Bromwich (2014).
